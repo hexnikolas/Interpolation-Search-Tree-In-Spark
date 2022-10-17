@@ -1,4 +1,4 @@
-#Interpolation Search Tree (IST) for Apache Spark
+# Interpolation Search Tree (IST) for Apache Spark
 
 
 The RDD is first sorted, then one instance of IST is created in each partition.
